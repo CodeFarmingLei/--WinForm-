@@ -7,8 +7,8 @@
     <ProjectGuid>{C9589944-EE01-4FE5-AFD1-20B2586C8879}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>动动脑益智答题</RootNamespace>
-    <AssemblyName>动动脑益智答题</AssemblyName>
+    <RootNamespace>MoveYourBrain_WinForm</RootNamespace>
+    <AssemblyName>MoveYourBrain_WinForm</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -145,6 +145,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Resource1.resx">
       <Generator>ResXFileCodeGenerator</Generator>

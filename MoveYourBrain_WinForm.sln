@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "动动脑益智答题", "动动脑益智答题\动动脑益智答题.csproj", "{C9589944-EE01-4FE5-AFD1-20B2586C8879}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveYourBrain_WinForm", "MoveYourBrain_WinForm\MoveYourBrain_WinForm.csproj", "{C9589944-EE01-4FE5-AFD1-20B2586C8879}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69024B3-72E3-4DFF-A06C-07616716667C}
 	EndGlobalSection
 EndGlobal
